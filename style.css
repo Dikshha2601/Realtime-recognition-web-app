@@ -1,0 +1,41 @@
+.heading {
+  width: 100%;
+  margin: 0px;
+  font-size: 23px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.model_objects {
+  float: none;
+  color: #000;
+  background-color: white;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+/* .result {
+  box-shadow: 5px 5px 5px grey;
+  font-size: 20px;
+} */
+
+.copyright_footer {
+  position: fixed;
+  bottom: 0;
+  color: white;
+  background-color: grey;
+  width: 100%;
+  font-size: 15px;
+  line-height: 3;
+}
+
+canvas {
+  margin-top: 100px;
+  border: 10px white solid;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+#model_name {
+  color: black;
+}
